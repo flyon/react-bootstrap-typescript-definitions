@@ -3,6 +3,8 @@ react-bootstrap-typescript-definitions
 
 Typescript definitions for [React Bootstrap](http://react-bootstrap.github.io/)
 
+which may come in handy since jsx for typescript is not an option (yet) 
+
 just import react-bootstrap.min.js in your project or require('react-bootstrap')
  and use
 ```  
